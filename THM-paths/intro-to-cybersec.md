@@ -1,8 +1,7 @@
 # Foundational Security Concepts (Pre-Security)
 
 This document captures the foundational cybersecurity knowledge and
-practical understanding developed during the Pre-Security learning phase
-on :contentReference[oaicite:0]{index=0}.
+practical understanding developed during the Pre-Security learning phase.
 
 This phase focused on building a clear mental model of how systems,
 networks, and users interact, and how security issues emerge when these
